@@ -109,7 +109,9 @@ ul {
   margin: 0 auto;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  color: var(--main-light-green); }
+  color: var(--main-light-green);
+  font-size: 1.25rem;
+}
 
 #pricelist p {
   padding: 5px 5px;
